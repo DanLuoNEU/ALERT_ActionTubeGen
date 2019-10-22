@@ -1,0 +1,1 @@
+python video_demo.py --video /home/dan/Videos/2019-06-05-141354.avi --outdir examples/res --save_video
